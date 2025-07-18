@@ -21,8 +21,7 @@ A simple yet powerful Internet Download Manager built using **JavaFX** for GUI a
 - **FXML** for UI design
 
 ---
-
-## 📁 Project Structure
+📁 Project Structure
 org.example/
 ├── App.java # JavaFX launcher
 ├── DownloadManager.java # Main controller class
